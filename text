@@ -1,0 +1,5 @@
+org.apache.spark spark-core_2.11 2.3.0
+com.fasterxml.jackson.core jackson-databind 2.9.5
+junit junit 4.12
+org.apereo.cas cas-server-core-configuration 5.3.0-RC3
+qdox qdox 1.6.1

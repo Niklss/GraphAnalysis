@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Libraries">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Libraries" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/_grammar-test/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/antlr4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/java8" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/java8/examples" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/java9" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/java9/examples" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/java/examples" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/javascript/Java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/less/testsrc/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/plsql/Java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/r" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/scss/testsrc/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/stringtemplate/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/swift2/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/swift2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/swift3/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/tnsnames" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/z/java" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/grammars-v4-master/z/src/main/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Libraries" recursive="false" />
+  </library>
+</component>

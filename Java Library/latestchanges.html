@@ -1,0 +1,8 @@
+<ul>
+<li>FEATURE: <code>@Builder.Default</code> lets you configure default values for your fields when using <code>@Builder</code>. See the Builder feature page for more information.</li>
+<li>PLATFORM: JDK9 now supported for compilation (delomboking with java9 not yet possible). Note, you'll have to do some command line wrangling. See</li>
+<li>BUGFIX: The <code>onX</code> feature (which lets you add annotations to generated methods) did not work if the annotation you added contained named parameters, and you are compiling with JDK8's javac. We can't fix this (it's a bug in javac), but we have provided an alternate, prettier way to do <code>onX</code> on javac8+.  onX documentation</li>
+<li>BUGFIX: <code>@Data</code> and <code>@Value</code> now respect the configuration for field access when generating equals, hashCode and toString</li>
+<li>BUGFIX: <code>@Builder</code> now marks generated builder 'setters' as <code>@Deprecated</code> if the source field is deprecated.</li>
+<li>CHANGE: <code>@ConstructorProperties</code> will now also be generated for private and package private constructors. This is useful for Jackson</li>
+</ul>
